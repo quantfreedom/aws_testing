@@ -3,3 +3,6 @@
 - Get it to work with Quantfreedom - Create an EMA 
 - Fetch test entry with bybit/mufex using a lambda Function
 - Docker image to deploy to Lambda
+- Send some info from ec2 to Lambda (we need to send a test variable)
+- Fetch API's from DB, to Lambda function
+- Send some info from ec2 to Lambda (Create an order to the exhcnage using API)
