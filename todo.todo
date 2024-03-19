@@ -7,6 +7,7 @@ kay:
     ☐ Send some info from ec2 to Lambda (we need to send a test variable)
     ☐ Fetch API's from DB, into EC2
     ☐ Fetch API's from DB, into Lambda to create order
+    ☐ When user registers, user gets email and random number, theyll also get an email code from AWS notifying of API Gateway use.
 
 Neo:
     ☐ Get Lambda Function to work
