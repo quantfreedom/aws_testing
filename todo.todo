@@ -1,4 +1,5 @@
-kay:
+todos:
+    ☐ watch all pixegami videos https://www.youtube.com/playlist?list=PLZJBfja3V3RuPay0u44BLUDewcGeKk5lv
     ☐ Get Lambda Function to work
     ☐ Get it to work with numpy
     ☐ Get it to work with Quantfreedom - Create an EMA 
@@ -8,13 +9,3 @@ kay:
     ☐ Fetch API's from DB, into EC2
     ☐ Fetch API's from DB, into Lambda to create order
     ☐ When user registers, user gets email and random number, theyll also get an email code from AWS notifying of API Gateway use.
-
-Neo:
-    ☐ Get Lambda Function to work
-    ☐ Get it to work with numpy
-    ☐ Get it to work with Quantfreedom - Create an EMA 
-    ☐ Fetch test entry with bybit/mufex using a lambda Function
-    ☐ Docker image to deploy to Lambda
-    ☐ Send some info from ec2 to Lambda (we need to send a test variable)
-    ☐ Fetch API's from DB, into EC2
-    ☐ Fetch API's from DB, into Lambda to create order
