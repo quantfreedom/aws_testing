@@ -1,0 +1,5 @@
+- Get Lambda Function to work
+- Get it to work with numpy
+- Get it to work with Quantfreedom - Create an EMA 
+- Fetch test entry with bybit/mufex using a lambda Function
+- Docker image to deploy to Lambda
